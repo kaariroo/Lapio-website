@@ -1,1 +1,14 @@
-p { background-color: red; }
+p { color: red; }
+.head {
+  color: blue;
+}
+.bread {
+  color: yellowgreen;
+}
+.list {
+  color: aquamarine;
+}
+#vihrea-kohta {
+    color: green;
+  }
+p
